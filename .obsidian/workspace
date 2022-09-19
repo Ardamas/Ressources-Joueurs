@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Règles/Compléments d'Alchimie.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -130,6 +130,7 @@
   },
   "active": "001688471888c49f",
   "lastOpenFiles": [
+    "Règles/Compléments d'Alchimie.pdf",
     "Règles/Compléments d'Alchimie.md"
   ]
 }
