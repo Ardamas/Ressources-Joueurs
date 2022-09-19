@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Règles/Compléments d'Alchimie.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -128,6 +128,8 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bfc6c1b619b05152",
-  "lastOpenFiles": []
+  "active": "001688471888c49f",
+  "lastOpenFiles": [
+    "Règles/Compléments d'Alchimie.md"
+  ]
 }

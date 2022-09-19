@@ -64,25 +64,20 @@ Vous gagnez un bonus de +2 aux jets d'attaque. Cette munition ajoute 2d4 dégât
 Vous gagnez un bonus de +3 aux jets d'attaque. Cette munition ajoute 2d8 dégâts à votre arme
 
 
-### Cartouche givrée
-****
+### **Cartouche givrée**
+
 ==**Alchimique**== ==**Munition**== ==**Givre**== ==**Néogicien**==
 
 **Utilisation** Munition ; **Encombrement** L
 **Activation** Remplacer la cartouche (3 actions)
-La température du liquide arcanique contenu dans cette cartouche a été fortement abaissée et stabilisée. Le type de dégâts de l'arme est de Givre tant qu'elle est chargée de cette munition. Contient 3 charges.
-****
-**Type** inférieur ; **Niveau** 2 ; **Prix** 75 pa
-****
-**Type** modéré ; **Niveau** 4 ; **Prix** 1,5 po
-Vous gagnez un bonus de +1 aux jets d'attaque. Cette munition ajoute 1d4 dégâts à votre arme.
-****
-**Type** supérieur ; **Niveau** 12 ; **Prix** 50 po
-Vous gagnez un bonus de +2 aux jets d'attaque. Cette munition ajoute 2d4 dégâts à votre arme
-****
-**Type** majeur ; **Niveau** 18 ; **Prix** 500 po
-Vous gagnez un bonus de +3 aux jets d'attaque. Cette munition ajoute 2d8 dégâts à votre arme
+*La température du liquide arcanique contenu dans cette cartouche a été fortement abaissée et stabilisée. Le type de dégâts de l'arme est de Givre tant qu'elle est chargée de cette munition. Contient 3 charges.*
 
+| Types   | Niveaux | Prix   | Effets|
+|----------|:-------------:|:--------:|---|
+| Inférieur |  2 | 75 Pa | |
+| Modéré | 3 | 1,5 Po | Vous gagnez un bonus de +1 aux jets d'attaque et 1d4 aux dégâts de votre arme.
+| Suprieur | 12 | 50 po | Vous gagnez un bonus de +2 aux jets d'attaque et 2d4 aux dégâts de votre arme.|
+| Majeur | 18 | 500 po | Vous gagnez un bonus de +3 aux jets d'attaque et 2d8 aux dégâts de votre arme.|
 
 ### Cartouche Plasmique
 ****
